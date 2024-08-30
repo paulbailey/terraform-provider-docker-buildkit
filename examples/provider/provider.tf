@@ -1,3 +1,3 @@
-provider "scaffolding" {
+provider "buildkit" {
   # example configuration here
 }
